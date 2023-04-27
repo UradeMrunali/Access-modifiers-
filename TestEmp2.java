@@ -1,7 +1,7 @@
 package PackB;
 public class TestEmp2 {
 	public static void main(String[] args) {
-		Emp e = new Emp();
+	Emp e = new Emp();
 		
 //private access modifier cannot access outside the class		
 //		e.salary=202.54775;
