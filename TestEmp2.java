@@ -7,9 +7,9 @@ public class TestEmp2 {
 //		e.salary=202.54775;
 		
 //default access modifier is accessible in this class because it is in same package		
-		e.id=12;
-		e.name="Yashu";
-		e.ph_no=937000000;
+	e.id=12;
+	e.name="Yashu";
+	e.ph_no=937000000;
 		
 		System.out.println(e.id);
 		System.out.println(e.name);
