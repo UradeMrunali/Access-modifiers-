@@ -1,5 +1,4 @@
 package PackB;
-
 public class TestEmp2 {
 	public static void main(String[] args) {
 		Emp e = new Emp();
