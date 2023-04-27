@@ -11,8 +11,7 @@ public class TestEmp2 {
 	e.name="Yashu";
 	e.ph_no=937000000;
 		
-		System.out.println(e.id);
-		System.out.println(e.name);
-	}
-
+	System.out.println(e.id);
+	System.out.println(e.name);
+}
 }
